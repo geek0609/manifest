@@ -844,4 +844,6 @@
   <!-- Add all PixelExperience repos -->
   <include name="snippets/pixel.xml" />
 
+  <!-- Add all Ginkgo repos -->
+  <include name="snippets/ginkgo.xml" />
 </manifest>
