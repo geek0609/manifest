@@ -2,7 +2,7 @@
 <manifest>
 
   <project name="PixelOS-ginkgo/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="eleven"/>
-  <project name="PixelOS-ginkgo/vendor_miuicamera" path="vendor/miuicamera" remote="github" revision="github" />
+  <project name="PixelOS-ginkgo/vendor_miuicamera" path="vendor/miuicamera" remote="github" revision="eleven" />
   <project name="PixelOS-ginkgo/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="11.0" />
   <project name="ThankYouMario/proprietary_vendor_qcom_sdclang" path="prebuilts/clang/host/linux-x86/clang-sdllvm" remote="github" revision="ruby-12" />
   <project name="PixelOS-ginkgo/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="eleven" />
